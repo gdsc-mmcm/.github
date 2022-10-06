@@ -1,2 +1,1 @@
-# .github
-About the Organization
+# Welcome to GDSC Mapúa-MCM!
